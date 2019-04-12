@@ -4,6 +4,10 @@
     "CommandData": "Para ajuda com os comandos do CPHAbot, visita a página <http://tiny.cc/0rss4y>"
   },
   {
+    "CommandName": "teste_rep",
+    "CommandData": "teste ao novo repositório 12_4_2019_11_59"
+  },
+  {
     "CommandName": "comboios",
     "CommandData": "Como saber os horários dos comboios da cp <https://tinyurl.com/y3b7jdvt>"
   },
