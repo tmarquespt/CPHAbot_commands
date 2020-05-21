@@ -1,7 +1,7 @@
 [
   {
     "CommandName": "help",
-    "CommandData": "Para ajuda com os comandos do CPHAbot, visita a página <https://cpha.pt/cphaboty>"
+    "CommandData": "Para ajuda com os comandos do CPHAbot, visita a página <https://cpha.pt/cphabot>"
   },
   {
     "CommandName": "duckdns",
