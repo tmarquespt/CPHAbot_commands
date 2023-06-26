@@ -882,7 +882,11 @@
   {
     "CommandName": "easyhan",
     "CommandData": "[EasyHan](https://easyhan.pt/?ssl) Leitor da porta HAN | Medidor de consumo via porta HAN | Conversor Modbus para WiFi ."
-  },	
+  },
+  {
+    "CommandName": "van",
+    "CommandData": "https://media.tenor.com/WqrGt08ogFwAAAAC/scooby-doo-mystery-machine.gif"
+  },		
   {
     "CommandName": "sd",
     "CommandData": "SD cards die - the more you write to them, the sooner they die. You can get a longer life with an Industrial SD card, or ones designed for 24x7 camera recording.\n\nYou're better off moving off the SD cards though, either use an SSD or replace that Pi with just about any 64 bit capable system from the last decade."
